@@ -1,0 +1,5 @@
+You must have Python 3 and Jupyter lab. Along with these you must install numpy and matplotlib packages. 
+https://www.python.org/
+https://jupyter.org/
+https://numpy.org/
+https://matplotlib.org/
